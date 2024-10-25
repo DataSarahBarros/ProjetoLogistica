@@ -1,0 +1,17 @@
+Resolução dos problemas:
+
+1. Total de entregas no prazo por canal de entrega.
+Resolução do problema: DAX Total de pedidos, Total de pedidos no prazo, gráfico de
+barras pra identificar qual canal teve maior numero de entrgas
+no prazo.
+2. Percentual de entregas antecipadas por equipe de entrega.
+Resposta: Acredito que esteja certo.
+3. Total de entregas por mês.
+R: Editei parta mostrar total de pedidos > m.m./a.a.
+4. Total de entregas de produtos por top 5 vendedores.
+R: Não consegui resolver o problema, mas não está mostrando apenas
+o top 5, mas sim todos os vendedores.
+5. Total de entregas com atraso por cidade.
+Resolução: DAX entregas atrasadas e Id cidade
+6. Percentual de entregas por status de entrega.
+Resolução: Status da entrega e o porcentual de cada status de entrega
